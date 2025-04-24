@@ -1,0 +1,21 @@
+2 79
+ECRC 'Entrer un nombre entier: ' FINC
+EMPI 0
+LIRE
+EMPI 0
+CONT
+EMPI 0
+CONT
+MULT
+EMPI 2
+EMPI 5
+ADDI
+ADDI
+EMPI 0
+AFFE
+ECRL
+ECRC 'Le double du nombre est: ' FINC
+EMPI 0
+CONT
+ECRE
+STOP

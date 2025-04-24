@@ -1,0 +1,9 @@
+PROGRAMME exemple;
+VAR nb;
+DEBUT
+	ECRIRE('Entrer un nombre entier: ');
+	LIRE(nb);
+	nb = 2*nb;
+	ECRIRE();
+	ECRIRE('Le double du nombre est: ', foo);
+FIN.

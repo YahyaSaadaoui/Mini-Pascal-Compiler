@@ -1,0 +1,10 @@
+PROGRAMME exemple;
+VAR nb, y;
+CONST x = 2, v = 5;
+DEBUT
+	ECRIRE('Entrer un nombre entier: ');
+	LIRE(nb);
+	nb := (nb*nb)+(x+v);
+	ECRIRE();
+	ECRIRE('Le double du nombre est: ', nb);
+FIN.
